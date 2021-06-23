@@ -1,0 +1,27 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4102770, 2021-06-15T00:00:20-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: SaintRegus-SemiBoldCondensed by Sonar Hubermann
+ * URL: https://www.myfonts.com/fonts/sonar-hubermann/saint-regus/semi-bold-condensed/
+ * Copyright: © Sonar Type Foundry. All right reserved
+ * 
+ * 
+ * 
+ * © 2021 MyFonts Inc
+*/
+
+
+
+  
+@font-face {
+  font-family: "SaintRegus-SemiBoldCondensed";
+  src: url('webFonts/SaintRegusSemiBoldCondensed/font.woff2') format('woff2'), url('webFonts/SaintRegusSemiBoldCondensed/font.woff') format('woff');
+}
+
