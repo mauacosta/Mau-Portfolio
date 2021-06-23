@@ -25,6 +25,10 @@ barba.init({
         secondAnimated();
       },
       async once(data) {
+        const done = this.async;
+        pageTransition();
+        await delay(1000);
+        done();
         animateContent();
         secondAnimated();
       },
