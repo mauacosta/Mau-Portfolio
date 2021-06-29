@@ -241,6 +241,20 @@ h2 span {
   background-position: center;
 }
 
+#anthem .card {
+  background: url(../img/fun/anthem.png), #fffffe;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+#advice .card {
+  background: url(../img/fun/advice.jpg), #bff7ff;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
 #end {
   margin: 5rem 0;
 }
